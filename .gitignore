@@ -1,0 +1,3 @@
+dist/
+httpie_aws_auth.egg-info/
+venv/
